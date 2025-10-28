@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import Agence from './pages/Agence'
 import Projects from './Pages/Projects.jsx'
 import Navbar from '../src/Components/Navigation/Navbar.jsx'
-import FullScreenNav from '../src/Components/Navigation/FullScreenNav.jsx'
+import FullScreenNav from './src/Components/Navigation/FullScreenNav.jsx'
 
 
 const App = () => {
